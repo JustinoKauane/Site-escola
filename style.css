@@ -1,1 +1,6 @@
-header {background-color: rgb(149, 99, 197);color: blue;} 
+*{margin: 0; padding: 0;}
+.cabeçalho {background-color: #e4ff69; color: rgb(14, 12, 13); display: flex; justify-content: space-around; padding: 24px 0;}
+.cabeçalho-imagem {width: 30%;}
+.cabeçalho-item-lista{display: inline-block; margin: 0 16px; padding: 24px 0; font: 24px;}
+.Faculdade{background-image:linear-gradient(#69faff,#b480f0);display:center;justify-content: center; align-items: center;}
+.ecola-imagem{width: 35%}
